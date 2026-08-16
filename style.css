@@ -1,0 +1,51 @@
+#sad-image {
+    size: 300px;
+    height: 300px;
+    width: 300px;
+    background-image: url('sad.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    align-items: center;
+    position: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 10%;
+    bottom: 20px;
+    right: 20px;
+
+
+}
+#happy-image{
+    
+    size: 300px;
+    height: 300px;
+    width: 300px;
+    background-image: url('happy.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    align-items: center;
+    position: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 10%;
+    bottom: 20px;
+    right: 20px;
+}
+#h1{
+    color: rgb(232, 16, 146);
+    text-align: center;
+}
+#p{
+    color: rgb(54, 8, 220);
+    text-align: center;
+}
+#h2{
+    color: rgb(232, 16, 146);
+    text-align: center;
+}
+#p1{
+    color: rgb(54, 8, 220);
+    text-align: center;
+}
